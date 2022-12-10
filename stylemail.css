@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Tahoma, Geneva;
+}
+.main{
+    height: 600px;
+    width: 940px;
+}
+.boxlogo{
+    float:left;
+    height: 270px;
+    width: 450px;
+   
+    
+}
+.logo{
+    float:right;
+    height: 300px;
+    width: 300px;
+ 
+    background-image: url("./logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.boxmain{
+    
+    float:left;  
+    height: 370px;
+    width: 470px;
+}
+
+.cabecera{
+    position: relative;  
+    padding-bottom: 30px;
+    height: 50px;
+    width: 580px;
+}
+h1{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.pone{ 
+    height: 60px;
+    width: 580px;
+}
+
+
+
+.formulario{
+    
+    height: 350px;
+    width: 580px;;
+    
+}
+
+.form{
+    padding-top:50px ;
+    margin: 0px;
+    width: 580px;
+
+}
+
+.form-text{
+    margin-top: 10px;
+padding-bottom: 20px;
+}
+
+.inpu{
+   
+    padding: 5px;
+    width: 550px;
+    padding-bottom: 10px;
+}
+
+.nover{
+    float: right;
+    height: 20px;
+}
+
+/*
+.email{
+
+    position: relative;
+    padding-top: 110px;
+
+}
+.username{
+
+    /*position: relative;
+    padding-top: 40px;
+}
+.password{
+
+   /* position: relative;
+    padding-top: 50px;
+}
+*/
+
+
+
+.lista{
+    
+    height: 90px;
+    width: 580px;
+
+}
+
+.puntoVerde{
+    list-style-type: circle;
+    list-style-position:inside;
+    list-style-image:url("bulet.png");
+}
+.listaone{
+    float:left;
+  
+    height: 90px;
+    width: 290px;
+}
+.listatwo{
+    float:left;
+ 
+    height: 90px;
+    width: 290px;
+
+}
+.signup{
+    float:left;   
+    height: 80px;
+    width: 580px;
+    
+}
+
+.boton{
+    float:left;   
+    height: 80px;
+    width: 148px;
+}
+.sign{
+    background-color:  white;
+    
+    text-decoration: none;
+    border-color:black;
+    border-radius: 0px;
+    width: 130px;
+    height: 40px;
+   margin: 5px;
+    
+    
+}
+
+.bloquechek{
+    float:right;
+    height: 80px;
+    width: 430px;
+}
+.checkbox{
+   float:left; 
+   margin: 2px; 
+   padding: 2px; 
+    height: 30px;
+    width: 30px;
+}
+.checktex{
+    float:right;    
+    padding:px;
+    height: 30px;
+    width: 390px;
+}
+
+.condic{
+    float:left;
+    
+    height: 60px;
+    width: 580px;
+}
